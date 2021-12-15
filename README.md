@@ -1,18 +1,23 @@
-# TECH-3500
+# Tarek Heba
 
-Tarek Heba
 
-Project #1
-https://github.com/Teerack/Personal-Website
+## Project #1
 
-Description: My personal website
+- https://github.com/Teerack/Personal-Website
 
-Project #2
-https://github.com/Teerack/ecom
+- <b>Description:</b>  My personal website
 
-Description: A front-end prototype of an E-commerce website
 
-Project #3
-https://github.com/Teerack/BarderBooks
+## Project #2
 
-Description: A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+- https://github.com/Teerack/ecom
+
+- <b>Description:</b>  A front-end prototype of an E-commerce website
+
+
+## Project #3
+
+- https://github.com/Teerack/BarderBooks
+
+- <b>Description:</b>  A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+
